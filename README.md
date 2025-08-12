@@ -51,11 +51,11 @@
   <!-- Portrait Screenshots in Row -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <div style="text-align: center;">
-      <h3>📄 Screen 1</h3>
+      <h3>📄 Gamepad Mode </h3>
       <img src="assets/screen1.jpg" alt="Screen 1" style="height: 250px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
     </div>
     <div style="text-align: center;">
-      <h3>📄 Screen 2</h3>
+      <h3>📄 Aceelerometer mode </h3>
       <img src="assets/screen2.jpg" alt="Screen 2" style="height: 250px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
     </div>
   </div>
