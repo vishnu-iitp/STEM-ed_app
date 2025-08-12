@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/img12.jpg" alt="STEMed Mobile App & ESP32 Car Project" width="600">
+  <img src="assets/img12.jpg" alt="STEMed Mobile App & ESP32 Car Project" width="100%">
  </p>
  
  <h1 align="center" style="font-size: 2.5em; color: #2c3e50; margin-top: 20px;">
