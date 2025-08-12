@@ -18,7 +18,7 @@
  
  <p align="center">
   <a href="https://github.com/vishnu-iitp/STEM-ed_app/releases/download/STEM-ed/Stem-ed.apk" target="_blank">
-  <img src="https://img.shields.io/badge/💓%20Watch%20in%20Action-red?style=for-the-badge&logo=youtube" alt="Download The app Now">
+  <img src="https://unsplash.com/photos/a-blue-pink-and-green-text-bubble-WpoyHJu6nxI" alt="Download The app Now">
   </a>
  </p>
  
