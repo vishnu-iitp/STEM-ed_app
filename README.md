@@ -131,7 +131,7 @@
  | Image | Component | Quantity |
  |-------|-----------|----------|
  | <p align="center"><img src="assets/esp32.png" width="80" height="80"/></p> | ESP32 Development Board | 1 |
- | <p align="center"><img src="assets/drv8833.png" width="80" height="80"/></p> | L298N Motor Driver | 1 |
+ | <p align="center"><img src="assets/drv8833.png" width="80" height="80"/></p> | DRV8833 Motor Driver | 1 |
  | <p align="center"><img src="assets/dc_motor.png" width="80" height="80"/></p> | DC Motors | 4 |
  | <p align="center"><img src="assets/dc_motor.png" width="80" height="80"/></p> | Wheels | 4 |
  | <p align="center"><img src="assets/battery_holder.jpg" width="80" height="80"/></p> | 18650 Battery Holder | 1 |
