@@ -101,18 +101,17 @@ Below is a list of all the components included in your STEM-ed Car Kit. These pa
 
 | Image | Component | Quantity |
 |-------|-----------|----------|
-| ![ESP32 Board](assets/esp32.png) | ESP32 Development Board | 1 |
-| ![Motor Driver](assets/drv8833.png) | L298N Motor Driver | 1 |
-| ![DC Motor](assets/dc_motor.jpg) | DC Motors | 4 |
-| ![Wheels](assets/dc_motor.jpg) | Wheels | 4 |
-| ![Chassis](assets/chassis.jpg) | Acrylic Chassis | 1 |
-| ![Battery Holder](assets/battery_holder.jpg) | 18650 Battery Holder | 1 |
-| ![Batteries](assets/battery.png) | 18650 Batteries | 2 |
-| ![Jumper Wires](assets/jumper_wire.webp) | Jumper Wires | 10 |
-| ![Switch](assets/switch.jpg) | On/Off Switch | 1 |
-| ![Servo](assets/servo.webp) | Servo motor | 1 |
-| ![Ultra sounic Sensor](assets/sensor.jpg) | Sr04 sensor | 1 |
-| ![3d Printed chassis](assets/3d_part.zip) | 3d printed chassis | 1 |
+| <p align="center"><img src="assets/esp32.png" width="80" height="80"/></p> | ESP32 Development Board | 1 |
+| <p align="center"><img src="assets/drv8833.png" width="80" height="80"/></p> | L298N Motor Driver | 1 |
+| <p align="center"><img src="assets/dc_motor.png" width="80" height="80"/></p> | DC Motors | 4 |
+| <p align="center"><img src="assets/dc_motor.png" width="80" height="80"/></p> | Wheels | 4 |
+| <p align="center"><img src="assets/battery_holder.jpg" width="80" height="80"/></p> | 18650 Battery Holder | 1 |
+| <p align="center"><img src="assets/battery.png" width="80" height="80"/></p> | 18650 Batteries | 2 |
+| <p align="center"><img src="assets/jumper_wire.webp" width="80" height="80"/></p> | Jumper Wires | 10 |
+| <p align="center"><img src="assets/switch.jpg" width="80" height="80"/></p> | On/Off Switch | 1 |
+| <p align="center"><img src="assets/servo.webp" width="80" height="80"/></p> | Servo Motor | 1 |
+| <p align="center"><img src="assets/sensor.jpg" width="80" height="80"/></p> | SR04 Sensor | 1 |
+| <p align="center"><img src="assets/car.png" width="80" height="80"/></p> | 3D Printed Chassis | 1 |
 ```
 
 ## 5. ESP32 Car Example
