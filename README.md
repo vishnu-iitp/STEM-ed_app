@@ -36,6 +36,34 @@
  - 🤖 Complete Arduino code for building your own **ESP32-based robotic car**
  
  <hr style="border: 1px solid #d3d3d3; margin: 20px 0;">
+
+ ---
+
+## 📸 APP UI
+
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+
+  <!-- Landscape Screenshot -->
+  <div style="text-align: center;">
+    <h3>🌐 Main App Overview</h3>
+    <img src="assets/app.jpg" alt="Main App" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+  </div>
+
+  <!-- Portrait Screenshots in Row -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div style="text-align: center;">
+      <h3>📄 Screen 1</h3>
+      <img src="assets/screen1.jpg" alt="Screen 1" style="height: 500px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    </div>
+    <div style="text-align: center;">
+      <h3>📄 Screen 2</h3>
+      <img src="assets/screen2.jpg" alt="Screen 2" style="height: 500px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    </div>
+  </div>
+
+</div>
+
+---
  
  ## 2. Core Features
  
