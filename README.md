@@ -16,11 +16,11 @@
   </a>
  </p>
  
- <p align="center">
-  <a href="https://github.com/vishnu-iitp/STEM-ed_app/releases/download/STEM-ed/Stem-ed.apk" target="_blank">
-  <img src="https://unsplash.com/photos/a-blue-pink-and-green-text-bubble-WpoyHJu6nxI" alt="Download The app Now">
-  </a>
- </p>
+<p align="center">
+<a href="https://github.com/vishnu-iitp/STEM-ed_app/releases/download/STEM-ed/Stem-ed.apk" target="_blank">
+<img src="https://i.imgur.com/LqJ4n2r.png" alt="Download The app Now" height="60">
+</a>
+</p>
  
  <hr style="border: 1px solid #d3d3d3; margin: 20px 0;">
  
