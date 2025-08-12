@@ -95,6 +95,26 @@ To be compatible with STEMed, your device must:
 
 ---
 
+# STEM-ed Car Kit Components
+
+Below is a list of all the components included in your STEM-ed Car Kit. These parts are all available in the `assets` folder on GitHub.
+
+| Image | Component | Quantity |
+|-------|-----------|----------|
+| ![ESP32 Board](assets/esp32.png) | ESP32 Development Board | 1 |
+| ![Motor Driver](assets/drv8833.png) | L298N Motor Driver | 1 |
+| ![DC Motor](assets/dc_motor.jpg) | DC Motors | 4 |
+| ![Wheels](assets/dc_motor.jpg) | Wheels | 4 |
+| ![Chassis](assets/chassis.jpg) | Acrylic Chassis | 1 |
+| ![Battery Holder](assets/battery_holder.jpg) | 18650 Battery Holder | 1 |
+| ![Batteries](assets/battery.png) | 18650 Batteries | 2 |
+| ![Jumper Wires](assets/jumper_wire.webp) | Jumper Wires | 10 |
+| ![Switch](assets/switch.jpg) | On/Off Switch | 1 |
+| ![Servo](assets/servo.webp) | Servo motor | 1 |
+| ![Ultra sounic Sensor](assets/sensor.jpg) | Sr04 sensor | 1 |
+| ![3d Printed chassis](assets/3d_part.zip) | 3d printed chassis | 1 |
+```
+
 ## 5. ESP32 Car Example
 
 Below is a **fully working Arduino sketch** for an ESP32 robotic car compatible with STEMed.
