@@ -106,8 +106,18 @@ These parts are all available in the `assets` folder on GitHub.
 | <p align="center"><img src="assets/car.png" width="80" height="80"/></p> | 3D Printed Chassis | 1 |
 
 ---
+## 7. Wiring instructions 
+| Component             | Pin Name (ESP32) | GPIO Pin |
+|-----------------------|------------------|----------|
+| Right Motor(+ve) - IN1(drv8833)     | rightMotorPin1   | 14       |
+| Right Motor(-ve) - IN2(drv8833)     | rightMotorPin2   | 27       |
+| Left Motor(+ve) - IN1(drv8833)      | leftMotorPin1    | 26       |
+| Left Motor(-ve) - IN2(drv8833)      | leftMotorPin2    | 25       |
+| Ultrasonic Sensor - TRIG | trigPin       | 5        |
+| Ultrasonic Sensor - ECHO | echoPin       | 18       |
+| Servo Motor Signal    | servoPin         | 17       |
 
-## 6. ESP32 Car Example
+## 8. ESP32 Car Example
 
 Below is a **fully working Arduino sketch** for an ESP32 robotic car compatible with STEMed.  
 
