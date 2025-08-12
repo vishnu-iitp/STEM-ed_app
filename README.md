@@ -37,7 +37,6 @@
  
  <hr style="border: 1px solid #d3d3d3; margin: 20px 0;">
 
- ---
 
 ## 📸 APP UI
 
