@@ -46,7 +46,7 @@
   <!-- Landscape Screenshot -->
   <div style="text-align: center;">
     <h3>🌐 Main App Overview</h3>
-    <img src="assets/app.jpg" alt="Main App" style="max-width: 90%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <img src="assets/app.jpg" alt="Main App" style="width: 50%; height:50%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
   </div>
 
   <!-- Portrait Screenshots in Row -->
