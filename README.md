@@ -18,7 +18,7 @@
  
 <p align="center">
 <a href="https://github.com/vishnu-iitp/STEM-ed_app/releases/download/STEM-ed/Stem-ed.apk" target="_blank">
-<img src="https://i.imgur.com/LqJ4n2r.png" alt="Download The app Now" height="60">
+<img src="https://imgur.com/gallery/download-button-gOdNHtu#wDG3dbA" alt="Download The app Now" height="60">
 </a>
 </p>
  
