@@ -1,28 +1,39 @@
-# STEMed Mobile Application & ESP32 Car Project
+<h1 align="center" style="font-size: 2.5em; color: #2c3e50;">
+🚗 STEMed Mobile Application & ESP32 Car Project
+</h1>
 
+<p align="center" style="font-size: 1.2em; color: #7f8c8d;">
 A versatile mobile application designed to control robotics and IoT devices over Bluetooth Low Energy (BLE), with a fully functional ESP32-based robotic car example.
+</p>
+
+<p align="center">
+  <a href="https://youtube.com/shorts/ep0MHZMkmzY?feature=share" target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Watch%20in%20Action-red?style=for-the-badge&logo=youtube" alt="Watch in Action">
+  </a>
+</p>
 
 ---
 
 ## 1. Introduction
 
-Welcome to **STEMed**, a mobile app that interfaces with and controls various hardware projects, with a primary focus on **robotics** and **IoT devices**. It connects to hardware via **Bluetooth Low Energy (BLE)** and provides multiple control interfaces to suit your project's needs.
+Welcome to **STEMed**, a mobile app that interfaces with and controls various hardware projects, with a primary focus on **robotics** and **IoT devices**.  
+It connects to hardware via **Bluetooth Low Energy (BLE)** and provides multiple control interfaces to suit your project's needs.
 
 This documentation covers:
 
-- App features and screens
-- BLE communication protocol
+- App features and screens  
+- BLE communication protocol  
 - Complete Arduino code for building your own **ESP32-based robotic car**
 
 ---
 
 ## 2. Core Features
 
-- **Bluetooth LE Connectivity**: Scan, connect, and disconnect from BLE devices.
-- **Multiple Control Interfaces**:
-  - **Gamepad Mode**: Classic directional and action commands.
-  - **Accelerometer Mode**: Tilt-based analog control.
-- **Real-time Sensor Data**: View accelerometer, gyroscope, and magnetometer readings.
+- **Bluetooth LE Connectivity**: Scan, connect, and disconnect from BLE devices.  
+- **Multiple Control Interfaces**:  
+  - **Gamepad Mode**: Classic directional and action commands.  
+  - **Accelerometer Mode**: Tilt-based analog control.  
+- **Real-time Sensor Data**: View accelerometer, gyroscope, and magnetometer readings.  
 - **User-Friendly Interface**: Clean, intuitive navigation.
 
 ---
@@ -30,28 +41,21 @@ This documentation covers:
 ## 3. Screen-by-Screen Breakdown
 
 ### 3.1 Home Screen
-
-- **Header**: App name, Bluetooth Device Scanner button, and Settings button.
+- **Header**: App name, Bluetooth Device Scanner button, and Settings button.  
 - **Module Grid**: Access:
-  - **Gamepad**: Opens Gamepad/Accelerometer control screen.
-  - **Phone Sensors**: Opens real-time sensor data screen.
+  - **Gamepad**: Opens Gamepad/Accelerometer control screen.  
+  - **Phone Sensors**: Opens real-time sensor data screen.  
   - *(Other modules like LED Control, Motor Control, Camera, IoT are planned for future updates)*
 
 ### 3.2 Bluetooth Connection Modal
-
-- **Scanning**: Auto-scans for 10 seconds.
-- **Device List**: Shows discovered devices.
-- **Actions**:
-  - *Rescan*
-  - *Disconnect*
-  - *Close*
+- **Scanning**: Auto-scans for 10 seconds.  
+- **Device List**: Shows discovered devices.  
+- **Actions**: Rescan, Disconnect, Close  
 
 ### 3.3 Gamepad Control Screen
+Two modes:  
 
-Two modes:
-
-1. **Gamepad Mode** (default)
-
+1. **Gamepad Mode** (default)  
    - **D-Pad Commands**:
      - `U_PRESSED` / `U_RELEASED`
      - `D_PRESSED` / `D_RELEASED`
@@ -64,24 +68,11 @@ Two modes:
      - × → `X`
      - `SELECT`, `START`
 
-2. **Accelerometer Mode**
-
-   - Sends `xPWM,yPWM` values based on tilt.
-   - Ranges: `-255` to `255`.
-   - Visual feedback joystick.
+2. **Accelerometer Mode**  
+   - Sends `xPWM,yPWM` values based on tilt.  
+   - Ranges: `-255` to `255`.  
+   - Visual feedback joystick.  
    - Action buttons work as in Gamepad Mode.
-
-### 3.4 Phone Sensors Screen
-
-- Displays live readings for:
-  - Accelerometer (G-force)
-  - Gyroscope (rad/s)
-  - Magnetometer (μT)
-
-### 3.5 Settings Screen
-
-- Auto-connect toggle *(future)*
-- Notifications toggle *(future)*
 
 ---
 
@@ -89,15 +80,16 @@ Two modes:
 
 To be compatible with STEMed, your device must:
 
-- **Service UUID**: `4fafc201-1fb5-459e-8fcc-c5c9c331914b`
-- **Characteristic UUID**: `beb5483e-36e1-4688-b7f5-ea07361b26a8`
+- **Service UUID**: `4fafc201-1fb5-459e-8fcc-c5c9c331914b`  
+- **Characteristic UUID**: `beb5483e-36e1-4688-b7f5-ea07361b26a8`  
 - Accept string commands defined in Gamepad/Accelerometer sections.
 
 ---
 
-# STEM-ed Car Kit Components
+## 5. STEM-ed Car Kit Components
 
-Below is a list of all the components included in your STEM-ed Car Kit. These parts are all available in the `assets` folder on GitHub.
+Below is a list of all the components included in your STEM-ed Car Kit.  
+These parts are all available in the `assets` folder on GitHub.
 
 | Image | Component | Quantity |
 |-------|-----------|----------|
@@ -112,13 +104,16 @@ Below is a list of all the components included in your STEM-ed Car Kit. These pa
 | <p align="center"><img src="assets/servo.webp" width="80" height="80"/></p> | Servo Motor | 1 |
 | <p align="center"><img src="assets/sensor.jpg" width="80" height="80"/></p> | SR04 Sensor | 1 |
 | <p align="center"><img src="assets/car.png" width="80" height="80"/></p> | 3D Printed Chassis | 1 |
-```
 
-## 5. ESP32 Car Example
+---
 
-Below is a **fully working Arduino sketch** for an ESP32 robotic car compatible with STEMed.
+## 6. ESP32 Car Example
+
+Below is a **fully working Arduino sketch** for an ESP32 robotic car compatible with STEMed.  
 
 ```cpp
+
+
 #include <Arduino.h>
 #include <BLEDevice.h>
 #include <BLEUtils.h>
