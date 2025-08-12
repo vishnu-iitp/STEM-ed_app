@@ -46,18 +46,18 @@
   <!-- Landscape Screenshot -->
   <div style="text-align: center;">
     <h3>🌐 Main App Overview</h3>
-    <img src="assets/app.jpg" alt="Main App" style="width: 50%; height:50%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+    <img src="assets/app.jpg" alt="Main App" style="width: 25%; height:25%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
   </div>
 
   <!-- Portrait Screenshots in Row -->
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <div style="text-align: center;">
       <h3>📄 Screen 1</h3>
-      <img src="assets/screen1.jpg" alt="Screen 1" style="height: 500px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+      <img src="assets/screen1.jpg" alt="Screen 1" style="height: 250px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
     </div>
     <div style="text-align: center;">
       <h3>📄 Screen 2</h3>
-      <img src="assets/screen2.jpg" alt="Screen 2" style="height: 500px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+      <img src="assets/screen2.jpg" alt="Screen 2" style="height: 250px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
     </div>
   </div>
 
