@@ -249,7 +249,7 @@ Connect all four motor mounts (with motors attached) to the main chassis body. P
  | Servo Motor Signal | `servoPin` | 17 |
 
 <div align="center">
-  <img src="wiring_sample.png" width="70%" alt="Wiring Sample Diagram">
+  <img src="assets/wiring_sample.png" width="70%" alt="Wiring Sample Diagram">
 </div>
 
 <p align="center"><em>A sample wiring diagram </em></p>
