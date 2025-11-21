@@ -53,7 +53,7 @@ This is a **screwless chassis** design that uses strings/zip ties to securely ho
 Secure your **100 RPM BO DC motors** (not included) to each of the four motor mounts using strings or zip ties. Make sure the motors are firmly attached and aligned properly.
 
 <div align="center">
-  <img src="assets/STEP-1%20(1).jpg" width="23%" alt="Motor Mount Step 1">
+  <img src="assets/STEP-1(1).jpg" width="23%" alt="Motor Mount Step 1">
   <img src="assets/STEP-1(2).jpg" width="23%" alt="Motor Mount Step 2">
   <img src="assets/STEP-1(3).jpg" width="23%" alt="Motor Mount Step 3">
   <img src="assets/STEP-1(4).jpg" width="23%" alt="Motor Mount Step 4">
