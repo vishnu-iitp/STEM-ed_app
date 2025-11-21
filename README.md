@@ -230,7 +230,7 @@ Connect all four motor mounts (with motors attached) to the main chassis body. P
  | <p align="center"><img src="assets/switch.jpg" width="80" height="80"/></p> | On/Off Switch | 1 |
  | <p align="center"><img src="assets/servo.webp" width="80" height="80"/></p> | Servo Motor | 1 |
  | <p align="center"><img src="assets/sensor.jpg" width="80" height="80"/></p> | SR04 Sensor | 1 |
- | <p align="center"><img src="assets/car.png" width="80" height="80"/></p> | 3D Printed Chassis | 1 |
+ | <p align="center"><img src="assets/car.png" width="80" height="80"/></p> | [chassis (it is cheap)](https://www.flipkart.com/stemed-4wd-robot-chassis-kit-arduino-raspberry-pi-diy-stem-project-bt-car-miscellaneous-electronic-hobby/p/itmddea1fe8dee7f?pid=EHKHHM38NWEFFKGE) | 1 |
  
  <hr style="border: 1px solid #d3d3d3; margin: 20px 0;">
  
