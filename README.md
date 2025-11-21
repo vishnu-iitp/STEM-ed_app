@@ -28,7 +28,7 @@
 
 ## 🛠️ 4WD Car Chassis Assembly Manual
 
-> **Now Available on Flipkart!** 🛒  
+> **Now Available on Flipkart!**  [Buy this chassis now (it is cheap)](https://www.flipkart.com/stemed-4wd-robot-chassis-kit-arduino-raspberry-pi-diy-stem-project-bt-car-miscellaneous-electronic-hobby/p/itmddea1fe8dee7f?pid=EHKHHM38NWEFFKGE) 
 > Get your hands on our premium **4WD Car Chassis Kit** - a screwless design that's perfect for robotics enthusiasts, students, and hobbyists!
 
 ### 📦 **What's Included in the Kit**
@@ -59,7 +59,7 @@ Secure your **100 RPM BO DC motors** (not included) to each of the four motor mo
   <img src="assets/STEP-1(4).jpg" width="23%" alt="Motor Mount Step 4">
 </div>
 
-<p align="center"><em>📸 Securing the DC motor to the motor mount</em></p>
+<p align="center"><em>Use a strong string and a needle to tie the motor with the motor mount , apply some quick addhesive </em></p>
 
 ---
 
@@ -71,7 +71,7 @@ Connect all four motor mounts (with motors attached) to the main chassis body. P
   <img src="assets/STEP-2.jpg" width="60%" alt="Attaching Motor Mounts to Chassis">
 </div>
 
-<p align="center"><em>📸 All four motor mounts attached to the main chassis</em></p>
+<p align="center"><em>You can tie all the motor mount to the main body using zip tie or strong string</em></p>
 
 ---
 
@@ -90,25 +90,25 @@ Connect all four motor mounts (with motors attached) to the main chassis body. P
   <img src="assets/STEP-3(5).jpg" width="18%" alt="Servo Mount Step 5">
 </div>
 
-<p align="center"><em>📸 Installing servo motor and SR04 sensor mount for obstacle avoidance</em></p>
+<p align="center"><em>Attach the servo mount on the servo using screw from servo motor and then slide the ur sensor mount into it</em></p>
 
 ---
 
 ### ✨ **Key Features**
 
-- 🔧 **Screwless Design** - Easy assembly and modification using strings/zip ties
-- 🎯 **Servo-Based Sensor Mount** - Enable dynamic obstacle detection and avoidance
-- 💪 **Robust Construction** - Durable chassis suitable for various robotics projects
-- 🔄 **Versatile Platform** - Compatible with ESP32, Arduino, and other microcontrollers
+-  **Screwless Design** - Easy assembly and modification using strings/zip ties
+-  **Servo-Based Sensor Mount** - Enable dynamic obstacle detection and avoidance
+-  **Robust Construction** - Durable chassis suitable for various robotics projects
+-  **Versatile Platform** - Compatible with ESP32, Arduino, and other microcontrollers
 
 ---
 
-### 🎓 **Perfect For:**
+###  **Perfect For:**
 
-- 🤖 Robotics projects and competitions
-- 📚 STEM education and learning
-- 🔬 DIY electronics enthusiasts
-- 🏆 School and college projects
+-  Robotics projects and competitions
+-  STEM education and learning
+-  DIY electronics enthusiasts
+-  School and college projects
 
 ---
 
