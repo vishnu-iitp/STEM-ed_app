@@ -247,6 +247,12 @@ Connect all four motor mounts (with motors attached) to the main chassis body. P
  | Ultrasonic Sensor - TRIG | `trigPin` | 5 |
  | Ultrasonic Sensor - ECHO | `echoPin` | 18 |
  | Servo Motor Signal | `servoPin` | 17 |
+
+<div align="center">
+  <img src="wiring_sample.png" width="70%" alt="Wiring Sample Diagram">
+</div>
+
+<p align="center"><em>A sample wiring diagram </em></p>
  
  <hr style="border: 1px solid #d3d3d3; margin: 20px 0;">
  
