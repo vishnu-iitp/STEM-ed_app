@@ -23,6 +23,96 @@
 </p>
  
  <hr style="border: 1px solid #d3d3d3; margin: 20px 0;">
+
+---
+
+## 🛠️ 4WD Car Chassis Assembly Manual
+
+> **Now Available on Flipkart!** 🛒  
+> Get your hands on our premium **4WD Car Chassis Kit** - a screwless design that's perfect for robotics enthusiasts, students, and hobbyists!
+
+### 📦 **What's Included in the Kit**
+
+- ✅ **4x Motor Mounts** - Secure housing for your DC motors
+- ✅ **1x Main Chassis** - Robust base platform for mounting all components
+- ✅ **1x Servo Motor Mount** - Precision mount for servo attachment
+- ✅ **1x SR04 Sensor Mount** - Dedicated holder for ultrasonic sensor
+
+> **⚠️ Note:** Motors and sensors are **not included** in the kit. This chassis is designed to work with standard 100 RPM BO DC motors and HC-SR04 ultrasonic sensors.
+
+---
+
+### 🔧 **Assembly Instructions**
+
+This is a **screwless chassis** design that uses strings/zip ties to securely hold components in place, making assembly and modifications quick and easy!
+
+---
+
+#### **Step 1: Attach Motors to Motor Mounts** 🔩
+
+Secure your **100 RPM BO DC motors** (not included) to each of the four motor mounts using strings or zip ties. Make sure the motors are firmly attached and aligned properly.
+
+<div align="center">
+  <img src="assets/STEP-1%20(1).jpg" width="23%" alt="Motor Mount Step 1">
+  <img src="assets/STEP-1(2).jpg" width="23%" alt="Motor Mount Step 2">
+  <img src="assets/STEP-1(3).jpg" width="23%" alt="Motor Mount Step 3">
+  <img src="assets/STEP-1(4).jpg" width="23%" alt="Motor Mount Step 4">
+</div>
+
+<p align="center"><em>📸 Securing the DC motor to the motor mount</em></p>
+
+---
+
+#### **Step 2: Attach Motor Mounts to Main Chassis** 🚗
+
+Connect all four motor mounts (with motors attached) to the main chassis body. Position them at the four corners and secure them using strings or zip ties through the designated slots.
+
+<div align="center">
+  <img src="assets/STEP-2.jpg" width="60%" alt="Attaching Motor Mounts to Chassis">
+</div>
+
+<p align="center"><em>📸 All four motor mounts attached to the main chassis</em></p>
+
+---
+
+#### **Step 3: Install Servo Motor and SR04 Sensor Mount** 📡
+
+1. **Attach the servo motor** to the main chassis body at the designated mounting point using strings or zip ties
+2. **Connect the servo mount** to the servo motor horn
+3. **Attach the SR04 sensor mount** to the SR04 ultrasonic sensor
+4. **Mount the sensor** onto the servo mount for 360° obstacle detection capability
+
+<div align="center">
+  <img src="assets/STEP-3(1).jpg" width="18%" alt="Servo Mount Step 1">
+  <img src="assets/STEP-3(2).jpg" width="18%" alt="Servo Mount Step 2">
+  <img src="assets/STEP-3(3).jpg" width="18%" alt="Servo Mount Step 3">
+  <img src="assets/STEP-3(4).jpg" width="18%" alt="Servo Mount Step 4">
+  <img src="assets/STEP-3(5).jpg" width="18%" alt="Servo Mount Step 5">
+</div>
+
+<p align="center"><em>📸 Installing servo motor and SR04 sensor mount for obstacle avoidance</em></p>
+
+---
+
+### ✨ **Key Features**
+
+- 🔧 **Screwless Design** - Easy assembly and modification using strings/zip ties
+- 🎯 **Servo-Based Sensor Mount** - Enable dynamic obstacle detection and avoidance
+- 💪 **Robust Construction** - Durable chassis suitable for various robotics projects
+- 🔄 **Versatile Platform** - Compatible with ESP32, Arduino, and other microcontrollers
+
+---
+
+### 🎓 **Perfect For:**
+
+- 🤖 Robotics projects and competitions
+- 📚 STEM education and learning
+- 🔬 DIY electronics enthusiasts
+- 🏆 School and college projects
+
+---
+
+<hr style="border: 1px solid #d3d3d3; margin: 20px 0;">
  
  ## 1. Introduction
  
